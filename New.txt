@@ -1,1 +1,6 @@
-Nope
+# Here we clone the repo from it link
+1- Git clone "link"
+2- Git add "file name"
+3- git commit -m "comment"
+4- git branch 
+5- git push origin main 
